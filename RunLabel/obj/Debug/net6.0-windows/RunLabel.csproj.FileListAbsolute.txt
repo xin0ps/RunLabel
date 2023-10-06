@@ -1,0 +1,17 @@
+C:\Users\ROG\source\repos\RunLabel\RunLabel\bin\Debug\net6.0-windows\RunLabel.exe
+C:\Users\ROG\source\repos\RunLabel\RunLabel\bin\Debug\net6.0-windows\RunLabel.deps.json
+C:\Users\ROG\source\repos\RunLabel\RunLabel\bin\Debug\net6.0-windows\RunLabel.runtimeconfig.json
+C:\Users\ROG\source\repos\RunLabel\RunLabel\bin\Debug\net6.0-windows\RunLabel.dll
+C:\Users\ROG\source\repos\RunLabel\RunLabel\bin\Debug\net6.0-windows\RunLabel.pdb
+C:\Users\ROG\source\repos\RunLabel\RunLabel\obj\Debug\net6.0-windows\RunLabel.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\RunLabel\RunLabel\obj\Debug\net6.0-windows\RunLabel.Form1.resources
+C:\Users\ROG\source\repos\RunLabel\RunLabel\obj\Debug\net6.0-windows\RunLabel.csproj.GenerateResource.cache
+C:\Users\ROG\source\repos\RunLabel\RunLabel\obj\Debug\net6.0-windows\RunLabel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\RunLabel\RunLabel\obj\Debug\net6.0-windows\RunLabel.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\RunLabel\RunLabel\obj\Debug\net6.0-windows\RunLabel.AssemblyInfo.cs
+C:\Users\ROG\source\repos\RunLabel\RunLabel\obj\Debug\net6.0-windows\RunLabel.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\RunLabel\RunLabel\obj\Debug\net6.0-windows\RunLabel.dll
+C:\Users\ROG\source\repos\RunLabel\RunLabel\obj\Debug\net6.0-windows\refint\RunLabel.dll
+C:\Users\ROG\source\repos\RunLabel\RunLabel\obj\Debug\net6.0-windows\RunLabel.pdb
+C:\Users\ROG\source\repos\RunLabel\RunLabel\obj\Debug\net6.0-windows\RunLabel.genruntimeconfig.cache
+C:\Users\ROG\source\repos\RunLabel\RunLabel\obj\Debug\net6.0-windows\ref\RunLabel.dll
